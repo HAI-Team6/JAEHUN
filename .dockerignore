@@ -1,0 +1,27 @@
+# Python 캐시 파일
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 가상 환경
+venv/
+env/
+.env
+
+# IDE 설정
+.vscode/
+.idea/
+
+# 로그 파일
+*.log
+
+# 임시 파일
+*.tmp
+*.temp
+
+# Git 관련
+.git
+.gitignore
+
+# 기타
+.DS_Store 
